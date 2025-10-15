@@ -84,7 +84,7 @@ s.send("acknowledgement recived from the server".encode())
 
 ## Output
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-08 144336" src="https://github.com/user-attachments/assets/eed2e85f-aaaf-42e0-a507-c6c0c66e644c" />
+<img width="1920" height="1146" alt="computer network 1a" src="https://github.com/user-attachments/assets/3bb5da88-2977-4db3-ab82-6954eced2750" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully.
